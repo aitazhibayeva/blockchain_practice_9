@@ -6,10 +6,6 @@
 
 ![Рисунок1](images/Рисунок1.png)
 
-2. Deployed smart contract and get the address and abi:
-
-![1763295312867]()
-
 ## Artifacts:
 
 - Address: 0x151517627195880166e7134242D118fA0A294a76
