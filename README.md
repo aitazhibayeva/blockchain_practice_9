@@ -48,21 +48,23 @@
 
 ## **Part 2. Creating a basic web page**
 
-1. Created new file with name index.html:
+1. Created new file with name index.html and include additional code in our exist index.html:
 
-![1763295596136]()
+![Рисунок2](images/Рисунок2.png)
 
-2. Include additional code in our exist index.html:
+2. Also created style.css file with several styles:
 
-![1763295686697]()
+![Рисунок3](images/Рисунок3.png)
 
-3. Also created style.css file with several styles:
+3. Using live serve I open index.html in browser:
 
-![1763295759045]()
+![Рисунок4](images/Рисунок4.png)
 
-4. Using live serve I open index.html in browser:
+![Рисунок5](images/Рисунок5.png)
 
-![1763295941486]()
+![Рисунок6](images/Рисунок6.png)
+
+![Рисунок7](images/Рисунок7.png)
 
 ## **Connect your web page to your smart contract**
 
