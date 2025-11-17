@@ -64,10 +64,6 @@
 
 ![Рисунок6](images/Рисунок6.png)
 
+## ** Added script to connect web3 wallet and interact with smart contract using ui smart: **
+
 ![Рисунок7](images/Рисунок7.png)
-
-## **Connect your web page to your smart contract**
-
-1. Added script to connect web3 wallet and interact with smart contract using ui smart:
-
-![1763296877681]()
