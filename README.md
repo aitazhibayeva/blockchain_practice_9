@@ -4,7 +4,7 @@
 
 1. Created new file Note.sol in remix:
 
-![1763295152908]()
+![Рисунок1](images/Рисунок1.png)
 
 2. Deployed smart contract and get the address and abi:
 
